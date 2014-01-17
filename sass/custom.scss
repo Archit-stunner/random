@@ -1,0 +1,57 @@
+/*custom scss file random test*/
+
+$types: 0;
+
+@for $i from 1 through 20 {
+    .fs#{5 * $i} {
+        font-size: 0.5em * $i !important;
+    }
+}
+
+@for $s from 1 through 10 {
+	.pad-top#{10*$s}{
+		padding-top: 10px * $s !important;
+	}
+}
+@for $i from 1 through 10{
+	.pad-btm#{10*$i}{
+		padding-bottom: 10px * $i !important;
+	}
+}
+
+$font-color: #000000;
+$bg-color-primary: $font-color + 1;
+$bg-color-secondary:$bg-color-primary + 2;
+.body{
+	color: $font-color;
+	background: $bg-color-secondary;
+}
+
+.ul{
+	li{
+		display: inline;
+	}
+	a{
+		color: $font-color;
+	}
+}
+
+@mixin border-radius($radius, $border-color){
+	-webkit-border-radius:$radius;
+	-moz-border-radius:$radius;
+	-ms-border-radius:$radius;
+	border-radius:$radius;
+	border-color: $border-color;
+}
+
+.main-border{ @include border-radius(10px, #ffffff);}
+
+.container{
+	@extend .body;
+
+}
+
+.thumbnail{
+	@extend .container;
+	border:3px solid gray;
+}

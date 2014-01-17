@@ -1,0 +1,184 @@
+/*custom scss file random test*/
+.fs5 {
+  font-size: 0.5em !important;
+}
+
+.fs10 {
+  font-size: 1em !important;
+}
+
+.fs15 {
+  font-size: 1.5em !important;
+}
+
+.fs20 {
+  font-size: 2em !important;
+}
+
+.fs25 {
+  font-size: 2.5em !important;
+}
+
+.fs30 {
+  font-size: 3em !important;
+}
+
+.fs35 {
+  font-size: 3.5em !important;
+}
+
+.fs40 {
+  font-size: 4em !important;
+}
+
+.fs45 {
+  font-size: 4.5em !important;
+}
+
+.fs50 {
+  font-size: 5em !important;
+}
+
+.fs55 {
+  font-size: 5.5em !important;
+}
+
+.fs60 {
+  font-size: 6em !important;
+}
+
+.fs65 {
+  font-size: 6.5em !important;
+}
+
+.fs70 {
+  font-size: 7em !important;
+}
+
+.fs75 {
+  font-size: 7.5em !important;
+}
+
+.fs80 {
+  font-size: 8em !important;
+}
+
+.fs85 {
+  font-size: 8.5em !important;
+}
+
+.fs90 {
+  font-size: 9em !important;
+}
+
+.fs95 {
+  font-size: 9.5em !important;
+}
+
+.fs100 {
+  font-size: 10em !important;
+}
+
+.pad-top10 {
+  padding-top: 10px !important;
+}
+
+.pad-top20 {
+  padding-top: 20px !important;
+}
+
+.pad-top30 {
+  padding-top: 30px !important;
+}
+
+.pad-top40 {
+  padding-top: 40px !important;
+}
+
+.pad-top50 {
+  padding-top: 50px !important;
+}
+
+.pad-top60 {
+  padding-top: 60px !important;
+}
+
+.pad-top70 {
+  padding-top: 70px !important;
+}
+
+.pad-top80 {
+  padding-top: 80px !important;
+}
+
+.pad-top90 {
+  padding-top: 90px !important;
+}
+
+.pad-top100 {
+  padding-top: 100px !important;
+}
+
+.pad-btm10 {
+  padding-bottom: 10px !important;
+}
+
+.pad-btm20 {
+  padding-bottom: 20px !important;
+}
+
+.pad-btm30 {
+  padding-bottom: 30px !important;
+}
+
+.pad-btm40 {
+  padding-bottom: 40px !important;
+}
+
+.pad-btm50 {
+  padding-bottom: 50px !important;
+}
+
+.pad-btm60 {
+  padding-bottom: 60px !important;
+}
+
+.pad-btm70 {
+  padding-bottom: 70px !important;
+}
+
+.pad-btm80 {
+  padding-bottom: 80px !important;
+}
+
+.pad-btm90 {
+  padding-bottom: 90px !important;
+}
+
+.pad-btm100 {
+  padding-bottom: 100px !important;
+}
+
+.body, .container, .thumbnail {
+  color: black;
+  background: #030303;
+}
+
+.ul li {
+  display: inline;
+}
+.ul a {
+  color: black;
+}
+
+.main-border {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px;
+  border-color: white;
+}
+
+.thumbnail {
+  border: 3px solid gray;
+}

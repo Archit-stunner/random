@@ -1,0 +1,35 @@
+2014-01-16 12:58:23    create css/custom.css 
+2014-01-16 13:02:32 overwrite css/custom.css 
+2014-01-16 13:06:14 overwrite css/custom.css 
+2014-01-16 13:06:18 identical css/custom.css 
+2014-01-16 13:08:29 identical css/custom.css 
+2014-01-16 13:08:40 overwrite css/custom.css 
+2014-01-16 13:09:28     error sass/custom.scss (Line 18: Undefined variable: "$font-color".)
+2014-01-16 13:09:28 overwrite css/custom.css 
+2014-01-16 13:09:50     error sass/custom.scss (Line 18: Undefined variable: "$font-color".)
+2014-01-16 13:09:51 identical css/custom.css 
+2014-01-16 13:10:14 overwrite css/custom.css 
+2014-01-16 13:10:29 identical css/custom.css 
+2014-01-16 13:10:56 identical css/custom.css 
+2014-01-16 13:11:03 overwrite css/custom.css 
+2014-01-16 13:11:24 identical css/custom.css 
+2014-01-16 13:11:29 identical css/custom.css 
+2014-01-16 13:11:46 overwrite css/custom.css 
+2014-01-16 13:11:58 overwrite css/custom.css 
+2014-01-16 13:12:06 overwrite css/custom.css 
+2014-01-16 13:15:02 identical css/custom.css 
+2014-01-16 13:16:01 overwrite css/custom.css 
+2014-01-16 13:16:03 identical css/custom.css 
+2014-01-16 13:18:02     error sass/custom.scss (Line 16: Invalid CSS after "@for $i ": expected "from", was "1 through 10{")
+2014-01-16 13:18:02 overwrite css/custom.css 
+2014-01-16 13:18:25 overwrite css/custom.css 
+2014-01-16 13:30:56 overwrite css/custom.css 
+2014-01-16 13:30:59 identical css/custom.css 
+2014-01-16 13:33:18     error sass/custom.scss (Line 47: Colors must have either three or six digits: '#fffff')
+2014-01-16 13:33:18 overwrite css/custom.css 
+2014-01-16 13:33:47 overwrite css/custom.css 
+2014-01-16 13:51:37 overwrite css/custom.css 
+2014-01-16 13:51:50 identical css/custom.css 
+2014-01-16 13:53:16 overwrite css/custom.css 
+2014-01-16 13:54:07 overwrite css/custom.css 
+2014-01-17 15:06:50 identical css/custom.css 
